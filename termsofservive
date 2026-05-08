@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>ReelSyncApp — Terms of Service</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; }
+    h1, h2 { color: #111; }
+  </style>
+</head>
+<body>
+
+<h1>ReelSyncApp — Terms of Service</h1>
+<p>Last updated: [DATE]</p>
+
+<p>Welcome to ReelSyncApp. By accessing or using our application, website, or related services (“ReelSyncApp,” “we,” “our,” or “the Service”), you agree to the following Terms of Service. Please read them carefully.</p>
+
+<h2>1. Overview</h2>
+<p>ReelSyncApp is a creator tool that allows users to upload, manage, and publish short‑form video content across multiple platforms, including TikTok, Instagram, YouTube, and Facebook. Users authenticate with each platform directly and grant permission for ReelSyncApp to upload or publish content on their behalf.</p>
+
+<h2>2. Eligibility</h2>
+<p>You must be at least 13 years old or meet the minimum age required by your region to use social media platforms connected to ReelSyncApp. By using the Service, you confirm that you meet these requirements.</p>
+
+<h2>3. User Accounts & Authentication</h2>
+<p>To use certain features, you may need to authenticate with third‑party platforms such as TikTok. When you connect an account, you grant ReelSyncApp permission to upload and publish content using the official APIs provided by those platforms. We do not store your login credentials. Access tokens are handled securely and used only for the intended purpose of posting content.</p>
+
+<h2>4. Content Ownership</h2>
+<p>You retain full ownership of all videos, captions, and media you upload through ReelSyncApp. By using the Service, you grant us a limited, temporary license to process and transmit your content solely for the purpose of publishing it to the platforms you select.</p>
+
+<h2>5. Acceptable Use</h2>
+<p>You agree not to use ReelSyncApp to upload or distribute content that is illegal, harmful, abusive, hateful, or violates the terms of any connected platform. You are responsible for ensuring your content complies with the policies of TikTok, Instagram, YouTube, Facebook, and any other platform you use.</p>
+
+<h2>6. Third‑Party Platforms</h2>
+<p>ReelSyncApp relies on official APIs provided by third‑party platforms. Your use of those platforms is governed by their respective terms and policies. We are not responsible for outages, restrictions, or changes made by those platforms.</p>
+
+<h2>7. Data & Privacy</h2>
+<p>We collect only the information necessary to operate the Service, such as media files you upload and tokens required for posting. We do not sell user data. For more details, please refer to our Privacy Policy.</p>
+
+<h2>8. Service Availability</h2>
+<p>We aim to provide a reliable experience, but we cannot guarantee uninterrupted access. Features may change or be discontinued at any time, especially when dependent on third‑party APIs.</p>
+
+<h2>9. Limitation of Liability</h2>
+<p>ReelSyncApp is provided “as is” without warranties of any kind. We are not liable for any damages resulting from the use or inability to use the Service, including issues caused by third‑party platforms.</p>
+
+<h2>10. Changes to These Terms</h2>
+<p>We may update these Terms from time to time. Continued use of the Service after changes are posted constitutes acceptance of the updated Terms.</p>
+
+<h2>11. Contact</h2>
+<p>If you have questions about these Terms, you may contact us at: support@reelsync.app</p>
+
+</body>
+</html>
